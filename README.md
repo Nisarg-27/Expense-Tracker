@@ -25,6 +25,7 @@ It is obviously built using React!
 
 | Technology    | Description                               | Link ↘️                                    |
 | ------------- | ----------------------------------------- | ------------------------------------------ |
+| React         | Framework                                 |   
 | HTML5         | Hyper Text Markup Language                | ----                                       |
 | CSS3          | Cascading Style Sheets                    | ----                                       |
 | JavaScript    | High Level, Dynamic, Interpreted Language | ----                                       |
